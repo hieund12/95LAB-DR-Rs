@@ -23,4 +23,6 @@
 
 
 ### Sơ đồ hệ thống AI: ~ 120 working days
+ - Nghiên cứu và apply hàng loạt các model hiện đại phục vụ bài toán DR
+   
 ![Sơ đồ tổng thể](https://github.com/hieund12/95LAB-DR-Rs/blob/20fb69d34e375e489f2070383ffdb340fc47a3d1/Screenshot%202023-09-02%20at%2016.21.23.png)
