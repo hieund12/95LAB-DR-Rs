@@ -18,3 +18,8 @@
 | **Khoanh vùng lên ảnh**| Các bác sĩ sẽ sử dụng tool do 95LAB xây dựng và hướng dẫn             |                              | 95LAB đảm nhận       |
 | Hoàng điểm            | Tìm vị trí của hoàng điểm và lưu toạ độ                                | OpenCV                       | 95LAB đảm nhận       |
 | SE, MA, HE, EX        | Tìm và khoanh vùng các tổn thương                                      | Mask R-CNN                   | 95LAB đảm nhận       |
+
+
+
+### Sơ đồ hệ thống AI
+![Sơ đồ tổng thể](https://github.com/hieund12/95LAB-DR-Rs/blob/20fb69d34e375e489f2070383ffdb340fc47a3d1/Screenshot%202023-09-02%20at%2016.21.23.png)
