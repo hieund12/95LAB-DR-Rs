@@ -1,9 +1,10 @@
 # 95LAB-DR-Rs
-## Mô tả các công việc mà 95LAB có thể đảm nhận: 
+## Mô tả các công việc mà 95LAB có thể đảm nhận: ~ thời gian 6-8 months (240 days)
   - Sẵn sàn hướng dẫn quy trình thu thập, tiền xử lý dữ liệu, lọc dữ liệu.
   - Cung cấp tool và các công cụ liên quan hỗ trợ quá trình xây dựng cơ sở dữ liệu cho bệnh DR (Diabetic Retinopathy)
+  - Nghiên cứu và xây dựng model phát triển API tích hợp hệ thống hoàn thiện
 
-### Tiền xử lý ảnh fundus cho bài toán DR (Diabetic Retinopathy)
+### Tiền xử lý ảnh fundus cho bài toán DR (Diabetic Retinopathy): ~ 80 -120 working days
 
 | Bước                  | Mô tả                                                                 | Công cụ/Phương pháp          | Ghi chú     |
 |-----------------------|-----------------------------------------------------------------------|------------------------------|-------------|
@@ -21,5 +22,5 @@
 
 
 
-### Sơ đồ hệ thống AI
+### Sơ đồ hệ thống AI: ~ 120 working days
 ![Sơ đồ tổng thể](https://github.com/hieund12/95LAB-DR-Rs/blob/20fb69d34e375e489f2070383ffdb340fc47a3d1/Screenshot%202023-09-02%20at%2016.21.23.png)
