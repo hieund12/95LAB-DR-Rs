@@ -15,7 +15,7 @@
 | **Tiền phân loại**     |                                                                       |                              |             |
 | Dự đoán DR             | Sử dụng mô hình deep learning do 95LAB cung cấp để xác định ảnh có nguy cơ DR hay không, giúp giảm thời gian sàn lọc data thô  | CNN, TensorFlow, PyTorch     | 95LAB đảm nhận       |
 | **Gán nhãn mức độ**   |                                                                        |                              |             |
-| Gán nhãn 0-4          | Gán Nhãn mức độ DR theo các tiêu chuẩn y tế và lưu vào phân mềm quản lý nhãn do 95LAB cung cấp        | Đánh giá của bác sĩ          |             |
+| Gán nhãn 0-4          | Gán Nhãn mức độ DR theo các tiêu chuẩn y tế và lưu vào phân mềm quản lý nhãn do 95LAB cung cấp        | Đánh giá của bác sĩ, 95LAB          |             |
 | **Khoanh vùng lên ảnh**| Các bác sĩ sẽ sử dụng tool do 95LAB xây dựng và hướng dẫn             |                              | 95LAB đảm nhận       |
 | Hoàng điểm            | Tìm vị trí của hoàng điểm và lưu toạ độ                                | OpenCV                       | 95LAB đảm nhận       |
 | SE, MA, HE, EX        | Tìm và khoanh vùng các tổn thương                                      | Mask R-CNN                   | 95LAB đảm nhận       |
