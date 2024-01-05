@@ -1,5 +1,5 @@
 # 95LAB-DR-Rs
-## Mô tả các công việc mà 95LAB có thể đảm nhận: ~ thời gian 6-8 months (240 days)
+## Mô tả các công việc mà 95LAB có thể đảm nhận: ~ Tổng thời gian 6-8 months (240 days)
   - Sẵn sàn hướng dẫn quy trình thu thập, tiền xử lý dữ liệu, lọc dữ liệu.
   - Cung cấp tool và các công cụ liên quan hỗ trợ quá trình xây dựng cơ sở dữ liệu cho bệnh DR (Diabetic Retinopathy)
   - Nghiên cứu và xây dựng model phát triển API tích hợp hệ thống hoàn thiện
